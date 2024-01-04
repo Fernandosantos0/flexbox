@@ -1,2 +1,1 @@
-# flexbox
-Apredendo as propriedades do Flexbox
+# Aprendendo o CSS Flexbox
